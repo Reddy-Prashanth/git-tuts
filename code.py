@@ -1,1 +1,1 @@
-print("Hello this is Prashanth Reddy")
+print("Hello this is second day of git and github practice")
